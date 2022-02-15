@@ -2,13 +2,13 @@ package tools;
 
 public class Tools {
 	private String title;
-	private int age;
+	private int weight;
 	private float width;
 	
-	public Tools(String title, int age, float width) {
+	public Tools(String title, int weight, float width) {
 		super();
 		this.title = title;
-		this.age = age;
+		this.weight = weight;
 		this.width = width;
 	}
 
@@ -20,12 +20,12 @@ public class Tools {
 		this.title = title;
 	}
 
-	public int getAge() {
-		return age;
+	public int getWeight() {
+		return weight;
 	}
 
-	public void setAge(int age) {
-		this.age = age;
+	public void setAge(int weight) {
+		this.weight = weight;
 	}
 
 	public float getWidth() {
@@ -38,7 +38,7 @@ public class Tools {
 
 	@Override
 	public String toString() {
-		return "{\"title\": \""+title+"\", \"age\": "+age+", \"width\":"+width+"}";
+		return "{\"title\": \""+title+"\", \"weight\": "+weight+", \"width\":"+width+"}";
 	}
 	
 }
