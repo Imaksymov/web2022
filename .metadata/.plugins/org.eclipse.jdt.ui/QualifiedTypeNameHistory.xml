@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="tools.Tools"/>
+    <fullyQualifiedTypeName name="fileIO.FileIOInterface"/>
+    <fullyQualifiedTypeName name="fileIO.FileIO"/>
+    <fullyQualifiedTypeName name="crud.FileCrud"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.annotation.WebServlet"/>
+</qualifiedTypeNameHistroy>

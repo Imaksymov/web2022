@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\lab2(dp2022)\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2828187757.index
+2200247339.index
+3561914257.index
+1429140190.index
+3535713802.index
+1665153785.index
