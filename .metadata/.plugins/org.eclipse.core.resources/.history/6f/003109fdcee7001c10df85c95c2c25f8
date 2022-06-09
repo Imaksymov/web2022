@@ -1,0 +1,5 @@
+package lab5.repo;
+
+public interface tRepo extends JpaRepository<Valuta, Integer>{
+
+}
